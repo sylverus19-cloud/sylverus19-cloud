@@ -1,4 +1,5 @@
 <h4 align="left">Hi 👋! My name is Sylvine, and I'm a first year student in UBC</h4>
+<h4 align="left">My skills:</h4>
 
 ###
 
